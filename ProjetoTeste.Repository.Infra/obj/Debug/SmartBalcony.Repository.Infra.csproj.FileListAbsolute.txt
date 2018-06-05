@@ -1,0 +1,5 @@
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository.Infra\bin\Debug\React.Repository.Infra.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository.Infra\bin\Debug\React.Repository.Infra.pdb
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository.Infra\obj\Debug\SmartBalcony.Repository.Infra.csprojResolveAssemblyReference.cache
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository.Infra\obj\Debug\React.Repository.Infra.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository.Infra\obj\Debug\React.Repository.Infra.pdb

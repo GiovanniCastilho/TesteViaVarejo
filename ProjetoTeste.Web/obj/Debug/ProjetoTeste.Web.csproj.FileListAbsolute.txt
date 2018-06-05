@@ -1,0 +1,168 @@
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\ApplicationInsights.config
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\roslyn\csc.exe
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\roslyn\vbc.exe
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\roslyn\VBCSCompiler.exe
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\ProjetoTeste.Web.dll.config
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\ProjetoTeste.Web.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\ProjetoTeste.Web.pdb
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Microsoft.AI.Web.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Microsoft.AI.Web.xml
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\obj\Debug\ProjetoTeste.Web.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\obj\Debug\ProjetoTeste.Web.pdb
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\obj\Debug\ProjetoTeste.Web.csprojResolveAssemblyReference.cache
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Newtonsoft.Json.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\System.Net.Http.Formatting.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\System.Web.Cors.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\System.Web.Http.Cors.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\System.Web.Http.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\Newtonsoft.Json.xml
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\System.Net.Http.Formatting.xml
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\System.Web.Http.xml
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\ProjetoTeste.Web\bin\System.Web.Http.Cors.xml
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\ApplicationInsights.config
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\roslyn\csc.exe
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\roslyn\vbc.exe
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\ProjetoTeste.Web.dll.config
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\ProjetoTeste.Web.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\ProjetoTeste.Web.pdb
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Microsoft.AI.Web.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Newtonsoft.Json.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\System.Web.Cors.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\System.Web.Http.Cors.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\System.Web.Http.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Microsoft.AI.Web.xml
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\Newtonsoft.Json.xml
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\System.Web.Http.xml
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\bin\System.Web.Http.Cors.xml
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\obj\Debug\ProjetoTeste.Web.csprojResolveAssemblyReference.cache
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\obj\Debug\ProjetoTeste.Web.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Web\obj\Debug\ProjetoTeste.Web.pdb
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\ApplicationInsights.config
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\roslyn\csc.exe
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\roslyn\vbc.exe
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\ProjetoTeste.Web.dll.config
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\ProjetoTeste.Web.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\ProjetoTeste.Web.pdb
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.Web.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Newtonsoft.Json.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\System.Web.Cors.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\System.Web.Http.Cors.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\System.Web.Http.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.Web.xml
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\Newtonsoft.Json.xml
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\System.Web.Http.xml
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\bin\System.Web.Http.Cors.xml
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\obj\Debug\ProjetoTeste.Web.csprojResolveAssemblyReference.cache
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\obj\Debug\ProjetoTeste.Web.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Web\obj\Debug\ProjetoTeste.Web.pdb
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\ApplicationInsights.config
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\roslyn\csc.exe
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\roslyn\vbc.exe
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\ProjetoTeste.Web.dll.config
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\ProjetoTeste.Web.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\ProjetoTeste.Web.pdb
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.Web.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Newtonsoft.Json.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\System.Web.Cors.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\System.Web.Http.Cors.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\System.Web.Http.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.Web.xml
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\Newtonsoft.Json.xml
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\System.Web.Http.xml
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\bin\System.Web.Http.Cors.xml
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\obj\Debug\ProjetoTeste.Web.csprojResolveAssemblyReference.cache
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\obj\Debug\ProjetoTeste.Web.dll
+C:\Users\gcastilho\Desktop\Projeto Base\ProjetoTeste.Web\obj\Debug\ProjetoTeste.Web.pdb

@@ -1,0 +1,5 @@
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Domain\bin\Debug\React.Domain.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Domain\bin\Debug\React.Domain.pdb
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Domain\obj\Debug\React.Domain.csprojResolveAssemblyReference.cache
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Domain\obj\Debug\React.Domain.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Domain\obj\Debug\React.Domain.pdb

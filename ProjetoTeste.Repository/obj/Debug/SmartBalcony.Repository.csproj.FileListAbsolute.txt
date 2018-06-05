@@ -1,0 +1,15 @@
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\bin\Debug\React.Repository.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\bin\Debug\React.Repository.pdb
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\bin\Debug\Dapper.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\bin\Debug\Dapper.FluentMap.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\bin\Debug\Dapper.FluentMap.Dommel.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\bin\Debug\Dommel.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\bin\Debug\React.Domain.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\bin\Debug\React.Domain.pdb
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\bin\Debug\Dapper.xml
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\bin\Debug\Dapper.FluentMap.xml
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\bin\Debug\Dapper.FluentMap.Dommel.xml
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\bin\Debug\Dommel.xml
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\obj\Debug\SmartBalcony.Repository.csprojResolveAssemblyReference.cache
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\obj\Debug\React.Repository.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Repository\obj\Debug\React.Repository.pdb

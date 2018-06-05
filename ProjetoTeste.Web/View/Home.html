@@ -1,0 +1,206 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="../scripts/bootstrap.min.js"></script>
+    <script src="../scripts/angular.js"></script>
+    <script src="../scripts/Cliente/ClienteController.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <link href="../css/Style.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div ng-app="myApp" id="Corpo" class="container-fluid text-center">
+        <div class="row content">
+            <div class="col-sm-2 sidenav">
+            </div>
+            <div class="col-sm-8 text-left">
+                <h1>Teste Via Varejo</h1> <br /><br />
+                <div class="container-fluid">
+                    <div ng-controller="myCtrl" class="divList">
+                        <div class="form-horizontal border-top-0" role="form" ng-show="!login">
+                            <div class="container">
+                                <div class="row">
+                                    <h2>
+                                        <span id="spn">Login</span>
+                                    </h2>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-6 col-lg-4">
+                                        <div class="form-group">
+                                            <label class="col-md-4 control-label">Usuario:</label>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control" id="inputNome" placeholder="Digite seu usuario" ng-model="usuario" required>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-lg-4">
+                                        <div class="form-group">
+                                            <label class="col-md-4 control-label">Senha:</label>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control" id="inputIdade" placeholder="Digite sua senha" ng-model="senha" required>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <br />
+                                <div class="row">
+                                    <div class="col-sm-6 col-lg-4">
+                                        <input type="button" id="btnLogin" class="btn btn-primary" value="Login" ng-click="Login()" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-horizontal border-top-0" role="form" ng-show="login">
+                            <div id="DivBusca" ng-show="!buscaFeita">
+                                <h2>Deseja saber quais amigos estão proximos a você? favor informar seus dados!</h2>
+                                <div class="row">
+                                    <div class="col-sm-6 col-lg-6">
+                                        <div class="form-group">
+                                            <label class="col-md-4 control-label">Nome:</label>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control" id="inputNome" placeholder="Digite seu Nome" ng-model="busca.nome" required>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-lg-6">
+                                        <div class="form-group">
+                                            <label class="col-md-4 control-label">Idade:</label>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control" id="inputIdade" placeholder="Digite sua Idade" ng-model="busca.idade" required>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-6 col-lg-6">
+                                        <div class="form-group">
+                                            <label class="col-md-4 control-label">Latitude:</label>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control" id="inputIdade" placeholder="Digite sua latitude" ng-model="busca.latitude" required>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-lg-6">
+                                        <div class="form-group">
+                                            <label class="col-md-4 control-label">Longitude:</label>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control" id="inputIdade" placeholder="Digite sua Longitude" ng-model="busca.longitude" required>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <br />
+                                <div class="col-sm-6 col-lg-4">
+                                    <input type="button" id="btnListarAmigos" class="btn btn-primary" value="Listar Amigos" ng-click="ListarAmigosProximos()" />
+                                </div>
+                            </div>
+
+                            <br />
+                            <div id="DivAmigosProximos" ng-show="buscaFeita">
+                                <h2>Lista de Amigos Proximos a você!</h2>
+                                <table cellpadding="12" class="table table-bordered table-hover">
+                                    <tr>
+                                        <td>
+                                            <b>Nome Amigo</b>
+                                        </td>
+                                        <td>
+                                            <b>Idade Amigo</b>
+                                        </td>
+                                        <td>
+                                            <b>Latitude</b>
+                                        </td>
+                                        <td>
+                                            <b>Longitude</b>
+                                        </td>
+                                        <td>
+                                            <b>Distancia</b>
+                                        </td>
+                                    </tr>
+                                    <tr ng-repeat="amigo in ListAmigosProximos">
+                                        <td>
+                                            {{amigo.nome}}
+                                        </td>
+                                        <td>
+                                            {{amigo.idade}}
+                                        </td>
+                                        <td>
+                                            {{amigo.latitude}}
+                                        </td>
+                                        <td>
+                                            {{amigo.longitude}}
+                                        </td>
+                                        <td>
+                                            {{amigo.distancia}}
+                                        </td>
+                                    </tr>
+                                </table>
+                                <div class="col-sm-6 col-lg-4" ng-show="buscaFeita">
+                                    <input type="button" id="btnListarAmigos" class="btn btn-primary" value="Voltar" ng-click="Limpar()" />
+                                </div>
+                            </div>
+
+                            <div id="DivTodosOsAmigos" ng-show="!buscaFeita">
+                                <h2>Lista de todos os seus Amigos</h2>
+                                <table cellpadding="12" class="table table-bordered table-hover">
+                                    <tr>
+                                        <td>
+                                            <b>Código</b>
+                                        </td>
+                                        <td>
+                                            <b>Nome Amigo</b>
+                                        </td>
+                                        <td>
+                                            <b>Idade Amigo</b>
+                                        </td>
+                                        <td>
+                                            <b>Latitude</b>
+                                        </td>
+                                        <td>
+                                            <b>Longitude</b>
+                                        </td>
+                                    </tr>
+                                    <tr ng-repeat="amigo in ListAmigos">
+                                        <td>
+                                            {{amigo.id}}
+                                        </td>
+                                        <td>
+                                            {{amigo.nome}}
+                                        </td>
+                                        <td>
+                                            {{amigo.idade}}
+                                        </td>
+                                        <td>
+                                            {{amigo.latitude}}
+                                        </td>
+                                        <td>
+                                            {{amigo.longitude}}
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+
+
+
+
+
+                        </div>
+
+
+
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="col-sm-2 sidenav">
+
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

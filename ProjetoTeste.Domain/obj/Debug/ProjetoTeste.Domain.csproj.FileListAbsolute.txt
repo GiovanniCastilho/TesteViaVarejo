@@ -1,0 +1,14 @@
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Domain\bin\Debug\React.Domain.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Domain\bin\Debug\React.Domain.pdb
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Domain\obj\Debug\React.Domain.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Domain\obj\Debug\React.Domain.pdb
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Domain\bin\Debug\React.Domain.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Domain\bin\Debug\React.Domain.pdb
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Domain\obj\Debug\ProjetoTeste.Domain.csprojResolveAssemblyReference.cache
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Domain\obj\Debug\React.Domain.dll
+C:\Users\gsilva\Desktop\Teste\ProjetoTeste.Domain\obj\Debug\React.Domain.pdb
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Domain\obj\Debug\ProjetoTeste.Domain.csprojResolveAssemblyReference.cache
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Domain\bin\Debug\ProjetoTeste.Domain.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Domain\bin\Debug\ProjetoTeste.Domain.pdb
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Domain\obj\Debug\ProjetoTeste.Domain.dll
+C:\Users\gcastilho\Downloads\Projeto Base\ProjetoTeste.Domain\obj\Debug\ProjetoTeste.Domain.pdb

@@ -1,0 +1,4 @@
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Domain\bin\Release\React.Domain.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Domain\bin\Release\React.Domain.pdb
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Domain\obj\Release\React.Domain.dll
+C:\Pessoal\Work\Desenvolvimento\Aplicação\SmartBalcony\React.Domain\obj\Release\React.Domain.pdb
